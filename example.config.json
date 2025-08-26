@@ -1,0 +1,18 @@
+{
+  "token": "discord_token",
+  "prefix": "!"
+  "defaultPlaylist": "defaultPlaylist",
+  "embedColor": "#FFC0CB",
+  "stayInChannel": true,
+  "links": {
+    "invite": "discord_invite_link",
+    "support": "some_support_link_coffe?",
+    "bg": "any_bg?"
+  },
+  "lavalink": {
+    "host": "lavalinkv4.serenetia.com",
+    "port": 80,
+    "password": "https://dsc.gg/ajidevserver",
+    "secure": false
+  }
+}
